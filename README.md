@@ -16,3 +16,28 @@ I am currently working on Bs in Computer Science. You can find details of my pro
 - Playing video games
 - Traveling
 - Reading about AI and emerging technologies
+
+## Projects
+- [Project 1](https://github.com/umer/project1) - Description of what this project does.
+- [Project 2](https://github.com/umerkhaan600/project2) - Brief overview of the project and technologies used.
+
+## Technologies & Tools
+- **Languages**: Python, JavaScript, C++
+- **Frameworks**: React, Django, Flask
+- **Tools**: Git, GitHub, VS Code, Docker
+
+## Education
+- **University of Southwales**,Cardiff,Wales  
+- **Bachelor of Science in Computer Science**  
+- Expected Graduation: first year
+
+## Certifications
+- **Python for Data Science** - Coursera
+- **Web Development with JavaScript** - Udemy
+
+## Contact
+- **Email**: umerkhaanuk600@gmail.com
+- **phone**: 07424956066
+
+## Personal Statement
+I’m passionate about solving real-world problems through technology. I aspire to leverage my skills in data science and web development to create impactful solutions. I believe in the power of collaboration and continuous learning.
