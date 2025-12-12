@@ -1,16 +1,18 @@
 ## Hi there 👋
+# My GitHub Portfolio
 
-<!--
-**umerkhaanuk600/umerkhaanuk600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi, I'm Muhammad Umer, a passionate developer and lifelong learner. I’m currently studying [Your Major/Field of Interest] at [Your University]. I enjoy exploring new technologies and creating impactful projects.
 
-Here are some ideas to get you started:
+## What I Am Doing
+I am currently working on Bs in Computer Science. You can find details of my projects in this repository.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Python, JavaScript, HTML, CSS
+- Tools: Git, GitHub, VS Code
+- Web Development, Data Science, Cloud Computing
+
+## Hobbies
+- Playing video games
+- Traveling
+- Reading about AI and emerging technologies
